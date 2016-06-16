@@ -1,6 +1,6 @@
 # cordova-plugin-memory-alert
 
-Cordova plugin design to dispatch native memory events to javascript. Current version is just propagating iOS memory warnings.
+Cordova plugin designed to dispatch native memory events to javascript. Current version is just propagating iOS memory warnings.
 
 ## Basic usage
 
