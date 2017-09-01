@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-memory-alert",
-  "version": "0.8",
+  "version": "0.8.0",
   "description": "Cordova plugin dispatching iOS native memory events to javascript.",
   "repository": {
     "type": "git",

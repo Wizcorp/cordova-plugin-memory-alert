@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova-plugin-memory-alert" version="0.8" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+<plugin id="cordova-plugin-memory-alert" version="0.8.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
 	<name>CordovaPluginMemoryAlert</name>
 	<js-module name="CordovaPluginMemoryAlert" src="www/CordovaPluginMemoryAlert.js">
 		<clobbers target="cordova.plugins.CordovaPluginMemoryAlert" />
