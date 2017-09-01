@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-memory-alert",
+  "version": "0.8",
+  "description": "Cordova plugin dispatching iOS native memory events to javascript.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wizcorp/cordova-plugin-memory-alert.git"
+  },
+  "keywords": [
+    "wizcorp",
+    "cordova",
+    "memory",
+    "alert",
+    "events",
+    "native",
+    "ios",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Wizcorp Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Wizcorp/cordova-plugin-memory-alert/issues"
+  },
+  "homepage": "https://github.com/Wizcorp/cordova-plugin-memory-alert#readme"
+}
